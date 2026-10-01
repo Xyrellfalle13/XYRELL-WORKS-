@@ -71,7 +71,7 @@ function refreshStats() {
 }
 const STATIC_WORKS = [
   { src: 'img1.jpg',  title: 'Traffic Advisory', cat: 'Traffic Management Bureau', desc: 'Facebook graphics for the Muntinlupa Traffic Management Bureau.' },
-  { src: 'img2.jpg',  title: 'Independence day', cat: 'Traffic Management Bureau', desc: 'Road-rule reminders: no helmet, unauthorized counterflow, parking in prohibited areas.' },
+  { src: 'img2.jpg',  title: 'Independence day', cat: 'Traffic Management Bureau', desc: 'Holiday greetings.' },
   { src: 'images/work-6.jpg',  title: 'How to Pay Online', cat: 'Traffic Management Bureau', desc: 'Step-by-step guide posts for online payment.' },
   { src: 'images/work-7.jpg',  title: 'Holiday greetings', cat: 'Traffic Management Bureau', desc: 'Labor Day, Independence Day, Araw ng Kagitingan, Employee Appreciation Day.' },
   { src: 'images/work-8.jpg',  title: 'Holy Week series', cat: 'Traffic Management Bureau', desc: 'Maundy Thursday, Good Friday, and Easter Sunday posts.' },
