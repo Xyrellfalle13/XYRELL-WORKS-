@@ -81,7 +81,7 @@ const STATIC_WORKS = [
   { src: 'images/work-9.jpg', images: ['images/trafficupdate/img1.jpg', 'images/trafficupdate/img2.jpg'], title: 'Traffic Update', cat: 'Traffic Management Bureau', desc: 'Northbound and southbound traffic status tables.' },
   { src: 'images/work-9.jpg', images: ['images/pyc/img.jpg', 'images/pyc/img1.jpg','images/pyc/img2.jpg'], title: 'Facebook Posting', cat: 'Poblacion Youth Council', desc: 'Oath taking, Team buildingand Lakbay alalay' },
   { src: 'images/work-14.jpg', images: ['images/adis/img.jpg', 'images/adis/img2.jpg'], title: "Adi's Snack Corners", cat: 'Business Branding', desc: 'Logo and menu board layout.' },
-  { src: 'images/work-14.jpg', images: ['images/others/img1.jpg'], title: "University Student Council", cat: 'Student council', desc: 'Logo' }
+  { src: 'images/work-14.jpg', images: ['images/others/img1.jpg'], title: "University Student Council", cat: 'Student Council', desc: 'Logo' }
 
 ];
 /* ---------- Categories: add or rename them HERE (one place) ---------- */
