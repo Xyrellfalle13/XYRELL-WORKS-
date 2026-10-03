@@ -89,6 +89,7 @@ const CATEGORIES = [
   'Traffic Management Bureau',
   'Poblacion Youth Council',
   'Business Branding',
+  'Student Council',
   'Other'            // keep "Other" last
 ];
 let activeCat = 'All';
