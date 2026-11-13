@@ -90,7 +90,7 @@ const STATIC_WORKS = [
   { src: 'images/work-14.jpg', images: ['images/others/img.jpg'], title: "Promo Poster", cat: 'LM Mini Store', desc: 'Poster' },
   { src: 'images/work-14.jpg', images: ['images/others/img2.jpg'], title: "Greeting", cat: 'Other', desc: 'Prinza Youth Organization' },
   { src: 'images/work-14.jpg', images: ['images/Yunacosmetics.jpg'], title: "Promo Poster", cat: 'Other', desc: 'Yuna Cosmetics' },
-  { src: 'images/work-14.jpg', images: ['images/10% OFF.jpg'], title: "Grand Opening", cat: 'Other', desc: 'Dumble Door' },
+  { src: 'images/work-14.jpg', images: ['images/Grand.jpg'], title: "Grand Opening", cat: 'Other', desc: 'Dumble Door' },
   
   
 
