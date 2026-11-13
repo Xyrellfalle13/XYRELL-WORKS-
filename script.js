@@ -94,11 +94,6 @@ const STATIC_WORKS = [
   
   
 
-
-
-
-
-
 ];
 /* ---------- Categories: add or rename them HERE (one place) ---------- */
 const CATEGORIES = [
